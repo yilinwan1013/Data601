@@ -1,0 +1,12 @@
+energy-consumption-analysis/
+├── data/                    # Folder containing the dataset
+│   └── property_data.csv    # Original dataset
+├── notebooks/               # Folder for Jupyter Notebook
+│   └── energy_analysis.ipynb
+├── reports/                 # Folder for the structured report
+│   └── energy_analysis_report.pdf
+├── visuals/                 # Folder for saved visualizations
+│   ├── eui_trend.png        # Example: Yearly trend of average Site EUI
+│   ├── top_ghg_emitters.png # Example: Top 10 buildings with highest GHG emissions
+│   └── eui_heatmap.png      # Example: Heatmap of Site EUI across property types
+└── README.md                # Detailed documentation
